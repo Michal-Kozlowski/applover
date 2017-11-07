@@ -80,7 +80,7 @@ h1 {
   background-image: none;
 }
 
-.item img {
+ .item img {
   width: 100%;
 }
 
@@ -198,7 +198,10 @@ h2 {
 
 //------------------------------blog
 footer {
-  background: linear-gradient(rgba(49, 58, 77, 0.6) 0px, rgba(49, 58, 77, 1) 165px), url("images/download-fota.jpg") center top no-repeat;
+  background: linear-gradient(
+    rgba(49, 58, 77, 0.6) 0px,
+    rgba(49, 58, 77, 1) 165px),
+    url("https://images.unsplash.com/photo-1470327500070-4857199b1bcd?auto=format&fit=crop&w=1950&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D") center bottom no-repeat;
   padding-top: 50px;
   text-align: center;
 
